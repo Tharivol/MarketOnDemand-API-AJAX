@@ -1,0 +1,153 @@
+#quote-module {
+  
+  min-height:200px;
+  padding: 15px;
+  width: 360px;
+}
+.topbord  {
+  border-top-style: solid;
+  border-color:  #737373;
+  width:  360px;
+}
+.heading  {
+  
+  color:  #424242;
+  font-family: palatino;
+  text-size:  15px;
+  padding-top: 10px;
+  width: 20px;
+}
+
+.LastPrice  {
+  color:  #424242;
+  font-family: Palatino Linotype;
+  text-size:  21px;
+  padding-top: 10px;
+  display: inline-block;
+  height: 25px;
+  width:  260px;
+}
+
+.bord  {
+  border-color: #dedede;
+  border-width: thin;
+  border-bottom-style: solid;
+}
+
+.Change  {
+  display: inline-block;
+  color:  #008400;
+  font-family: Palatino Linotype;
+  text-size:  17px;
+  height: 25px;
+  
+}
+
+.ChangePercentage  {
+  display: inline-block;
+  color:  #008400;
+  font-family: Palatino Linotype;
+  text-size:  17px;
+  height: 25px;
+}
+
+.Key  {
+  font-family: Sans-Seref;
+  text-size: 11px;
+  color: #737373;
+  display: inline-block;
+  height: 25px;
+  width:  260px;
+  padding-top: 5px;
+  
+}
+
+.Low  {
+  display: inline-block;
+  font-family: Sans-Seref;
+  font-weight: 600;
+  text-size:  14px;
+  height: 25px;
+  position: absolute;
+  padding-top: 5px;
+}
+
+.High  {
+  display: inline-block;
+  font-family: Sans-Seref;
+  font-weight: 600;
+  text-size:  14px;
+  height: 25px;
+  position: absolute;
+  left: 330px;
+  padding-top: 5px;
+}
+
+.Open  {
+  display: inline-block;
+  font-family: Sans-Seref;
+  font-weight: 600;
+  text-size:  14px;
+  height: 23px;
+  position: absolute;
+  left: 327px;
+  padding-top: 5px;
+}
+
+.Volume  {
+  display: inline-block;
+  font-family: Sans-Seref;
+  font-weight: 600;
+  text-size:  14px;
+  height: 25px;
+  position: absolute;
+  left: 319px;
+  padding-top: 5px;
+}
+
+.MarketCap  {
+  display: inline-block;
+  font-family: Sans-Seref;
+  font-weight: 600;
+  text-size:  14px;
+  height: 25px;
+  position: absolute;
+  left: 315px;
+  padding-top: 5px;
+}
+
+.Timestamp  {
+  text-align: right;
+  font-family: Sans-Seref;
+  text-size: 11px;
+  color: #737373;
+  height: 25px;
+  padding-top: 5px;
+  
+}
+
+.search  {
+  height: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+.input  {
+  width: 160px;
+  height: 18px;
+  padding: 5px;
+  border-radius: 5px 0px 0px 5px;
+  border: 1px solid;
+  border-color:  #dedede;
+}
+
+.newquote  {
+  width: 180px;
+  height: 30px;
+  text-size: 14px;
+  color: #424242;
+  border: 1px;
+  border-color: #dedede;
+  border-radius: 0px 5px 5px 0px;
+  
+  
